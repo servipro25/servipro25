@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://your-logo-link.com/logo.png" alt="ServiPro logo" width="200"/>
+  <img src="https://avatars.githubusercontent.com/u/207229698?v=4" alt="ServiPro logo" width="200"/>
 </p>
 
 ---
